@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CCC",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "tag": "exenem:crystalline_shard"
+    }
+  },
+  "result": {
+    "item": "exenem:crystalline_block",
+    "count": 1
+  }
+}
